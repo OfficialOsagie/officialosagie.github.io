@@ -12,4 +12,4 @@ Cras elit lorem, porta dapibus bibendum vel, semper sed enim. Ut tristique fauci
 
 ### Blog Post
 
-[continue reading] (Blog)
+[continue reading](Blog)
