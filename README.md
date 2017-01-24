@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# IASC 2P02
+## Greg Osagie
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat ut ligula in pretium. Pellentesque et magna venenatis, pharetra massa sit amet, imperdiet lorem. Aenean molestie vel magna vel efficitur. Morbi tincidunt quam elit, eget pharetra lectus sagittis et. Aliquam erat volutpat. Mauris condimentum lorem sit amet risus pretium pulvinar. Duis efficitur commodo magna vitae cursus. Donec tempor risus ut massa rhoncus, eget efficitur nisi tristique. Phasellus tempor, metus a convallis tincidunt, felis dolor fermentum sem, non vestibulum turpis enim eu orci. Quisque tempus dolor id enim vehicula, ut auctor arcu porttitor. Duis lectus orci, efficitur hendrerit laoreet eget, aliquam sit amet arcu.
 
-You can use the [editor on GitHub](https://github.com/OfficialOsagie/officialosagie.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OfficialOsagie/officialosagie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Cras elit lorem, porta dapibus bibendum vel, semper sed enim. Ut tristique faucibus purus sed interdum. In hac habitasse platea dictumst. Quisque arcu justo, sodales ornare aliquam vel, accumsan sit amet quam. Ut at hendrerit odio, sed sollicitudin massa. Sed vel velit a dui dignissim mollis at eu orci. Phasellus id elit ligula.
