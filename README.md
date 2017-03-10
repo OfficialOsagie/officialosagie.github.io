@@ -14,6 +14,4 @@ He is a massive fan of Arsenal Football Club and he plays intramural soccer on c
 
 Click on the link below to read my recently posted blog on Digital Humanities
 
-### [Blog Post](officialosagie.github.io/blog)
-
-[continue reading](Blog)
+[continue reading](officialosagie.github.io/blog)
