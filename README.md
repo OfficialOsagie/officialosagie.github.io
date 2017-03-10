@@ -2,7 +2,9 @@
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis placerat ut ligula in pretium. Pellentesque et magna venenatis, pharetra massa sit amet, imperdiet lorem. Aenean molestie vel magna vel efficitur. Morbi tincidunt quam elit, eget pharetra lectus sagittis et. Aliquam erat volutpat. Mauris condimentum lorem sit amet risus pretium pulvinar. Duis efficitur commodo magna vitae cursus. Donec tempor risus ut massa rhoncus, eget efficitur nisi tristique. Phasellus tempor, metus a convallis tincidunt, felis dolor fermentum sem, non vestibulum turpis enim eu orci. Quisque tempus dolor id enim vehicula, ut auctor arcu porttitor. Duis lectus orci, efficitur hendrerit laoreet eget, aliquam sit amet arcu.
+Gregory is an Interactive Arts and Science undergraduate student at the University of Brock who is currently in his second (2nd) year of the program. Under his I.A.S.C degree he has two (2) cocentrations and focuses:
+
+His Concentrations include: Digital Expression and Digital Prototyping. His Focuses include: Artificial Intelligence and Web & Internet Technologies.
 
 ![](Images/arsenal-1584845_960_720.jpg)
 
