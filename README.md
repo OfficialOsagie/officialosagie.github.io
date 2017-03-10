@@ -10,7 +10,7 @@ His Concentrations include: Digital Expression and Digital Prototyping. His Focu
 
 [Arsenal Stadium](https://en.wikipedia.org/wiki/Arsenal_F.C.)
 
-Cras elit lorem, porta dapibus bibendum vel, semper sed enim. Ut tristique faucibus purus sed interdum. In hac habitasse platea dictumst. Quisque arcu justo, sodales ornare aliquam vel, accumsan sit amet quam. Ut at hendrerit odio, sed sollicitudin massa. Sed vel velit a dui dignissim mollis at eu orci. Phasellus id elit ligula.
+He is a massive fan of Arsenal Football Club and he plays intramural soccer on campus at Brock University.
 
 ### [Blog Post](officialosagie.github.io/blog.md)
 
