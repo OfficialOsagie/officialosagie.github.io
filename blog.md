@@ -12,8 +12,7 @@
   In conclusion, “the task of the digital humanities, as a trans-curricular practice, is to bring these practitioners into communication with each other, and to cultivate a discourse that captures the shared praxis of bringing technologies of representation, computation, and communication to bear on the work of interpretation that defines the humanities” (Rafael Alvarado). 
   
   
-![] (Images/voyant.png)  
-  
+![](Images/voyant.png)  
   
   
   
