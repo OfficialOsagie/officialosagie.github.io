@@ -12,6 +12,6 @@ His Concentrations include: Digital Expression and Digital Prototyping. His Focu
 
 Cras elit lorem, porta dapibus bibendum vel, semper sed enim. Ut tristique faucibus purus sed interdum. In hac habitasse platea dictumst. Quisque arcu justo, sodales ornare aliquam vel, accumsan sit amet quam. Ut at hendrerit odio, sed sollicitudin massa. Sed vel velit a dui dignissim mollis at eu orci. Phasellus id elit ligula.
 
-### Blog Post
+### [Blog Post](officialosagie.github.io/blog.md)
 
 [continue reading](Blog)
