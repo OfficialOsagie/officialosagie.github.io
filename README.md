@@ -12,6 +12,12 @@ His Concentrations include: Digital Expression and Digital Prototyping. His Focu
 
 He is a massive fan of Arsenal Football Club and he plays intramural soccer on campus at Brock University.
 
+## Research Presentation
+
+["Title"](reveal/index.html) 
+
 Click on the link below to read my recently posted blog on Digital Humanities
 
 [continue reading](officialosagie.github.io/blog)
+
+
