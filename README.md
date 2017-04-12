@@ -1,6 +1,6 @@
 # IASC 2P02 | Greg Osagie
 
-### Bio
+## Bio
 
 ![](http://timmatic.com/i/2017/01/computer-network-wallpaper-1080p.jpg)
 
@@ -13,6 +13,10 @@ His Concentrations include: Digital Expression and Digital Prototyping. His Focu
 [Arsenal Stadium](https://en.wikipedia.org/wiki/Arsenal_F.C.)
 
 He is a massive fan of Arsenal Football Club and he plays intramural soccer on campus at Brock University.
+
+
+## Featured Project
+
 
 ## Collaborative Project
 
