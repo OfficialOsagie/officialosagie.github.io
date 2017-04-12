@@ -1,6 +1,8 @@
 # IASC 2P02 | Greg Osagie
 
-### About Me
+### Bio
+
+![](http://timmatic.com/i/2017/01/computer-network-wallpaper-1080p.jpg)
 
 Gregory is an Interactive Arts and Science undergraduate student at the University of Brock who is currently in his second (2nd) year of the program. Under his I.A.S.C degree he has two (2) cocentrations and focuses:
 
