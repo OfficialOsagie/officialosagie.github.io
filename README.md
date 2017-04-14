@@ -28,10 +28,10 @@ He is a massive fan of Arsenal Football Club and he plays intramural soccer on c
 
 ## Academic Blog
 
-["Title"](link)
+["Humanities Approach to Graphical Display"](officialosagie.github.io/blog)
 
-Click on the link below to read my recently posted blog on Digital Humanities
 
-[continue reading](officialosagie.github.io/blog)
+
+
 
 
