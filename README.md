@@ -24,6 +24,22 @@ I am also a massive fan of Arsenal Football Club and I play intramural soccer on
 
 ## Featured Project
 
+![](http://www.artofstance.com/wp-content/uploads/2013/03/makestancenotwar.jpg)
+
+### Response to Johanna Drucker’s Humanities Approach to Graphical Display
+
+### Abstract:
+
+"What digital humanists do depend largely on academic discipline but also onlevel of technical expertise. Each discipline, with varying degrees of intensity, has over the years developed a set of favored methods, tools and interests that, although shared with other disciplines remains connected to the discipline" (Alvarado, 2011).
+
+  It is necessary for us to understand what ‘Visualization’ is and why it is gradually used more often as a tool in the humanities. Visualization is “the use of computer-supported, interactive, visual representations of abstract data to amplify cognition. It is also the graphical display of abstract information for two purposes: sense-making (also called data analysis) and communication” (hastac).
+
+  Considering that we exist in an era of technology, whereby, most tools used to either understand or acquire knowledge demands the need of a technological device, the aim of this argument is to emphasize the need to interpret information obtained from technological devices in conjunction with humanistic lens, and not just accept graphical displays as given.
+ 
+  Digital humanists have adopted visualization tools in their work, they have borrowed methods developed for the graphical display of information in the natural and social sciences. Here, we can therefore say that Drucker’s argument in this article is to point out that we need a humanist’s approach to the graphical expression of interpretation.
+ 
+  This article is intended for digital humanities students and its significance it to reiterate the importance of applying human reasoning to conclusion drawn based on results derived from technological support in the field. 
+
 
 ## Collaborative Project
 
