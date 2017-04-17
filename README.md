@@ -10,7 +10,7 @@
     <li>	Web and Internet Technologies through Digital Prototyping which demonstrates a knowledge of common programming languages, and           basic computing concepts or modes of thinking.</li>
     </ul>
   I have completed IASC 1P02 (Web Media Production) course, in which I designed a fully operational website about myself, as a demonstration of my expertise in digital prototyping. I also completed IASC 2P06 (3D Objects, Environments and Visualization) course, in which I designed a 3D model of a Modern Villa, using the MAYA program, as a demonstration of my expertise in digital expression. 
-  </br>
+  
   
   In continuation of my research within digital humanities, I would like to address the issue of medical manpower shortage worldwide using Artificial Intelligence. I will research and develop a creative bot that can do a comprehensive diagnosis of a human body to identify malfunctioned organs and make prescriptions in right doses for healing. This will eliminate delays in seeking medical attention and reduce workload on medical personnel.
 
