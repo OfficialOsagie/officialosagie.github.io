@@ -39,6 +39,20 @@ I am also a massive fan of Arsenal Football Club and I play intramural soccer on
   Digital humanists have adopted visualization tools in their work, they have borrowed methods developed for the graphical display of information in the natural and social sciences. Here, we can therefore say that Drucker’s argument in this article is to point out that we need a humanist’s approach to the graphical expression of interpretation.
  
   This article is intended for digital humanities students and its significance it to reiterate the importance of applying human reasoning to conclusion drawn based on results derived from technological support in the field. 
+  
+  
+### Word Statement:
+
+This research work started off as a class reading for the week of January 30, 2017. Being a collaborative work, we did not go in-depth, but the idea of the topic as well as explanation from the professor caught my attention.
+
+The research topic is based on how visualization tools have been introduced into the digital humanities to reach conclusions on their work findings. With this development, it was found that technological, graphical information are being adopted as given without applying human reasoning. Drucker’s article reviewed in my blog tried to address this concern by stating that “the forms for graphical expression of capta need to be more nuanced to show ambiguity and complexity.”
+
+As time passed by, we were asked to compose an academic blog that discusses a scholarly issue. The first topic that came to mind was Drucker’s article. To formulate this blog post, I researched other topics in the humanities field so as to create a core argument and an articulated firm stance. The blog post was a sum of nine hundred and twenty-two (922) words, in support of Drucker’s article.
+
+To address the instructor’s feedback, I removed several quotes from the articles in my blog, and I used more of my own words to express my understanding of the research work and also not using one quotation to explain another.
+
+By undertaking this project, I have developed a better understanding of how graphical display was introduced into digital humanities as a tool.
+
 
 
 ## Collaborative Project
