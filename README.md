@@ -57,7 +57,7 @@ By undertaking this project, I have developed a better understanding of how grap
 
 ## Collaborative Project
 
-["Title"](link)
+["Title"](officialosagie.github.io/Collaborative)
 
 ## Research Presentation
 
