@@ -57,11 +57,11 @@ By undertaking this project, I have developed a better understanding of how grap
 
 ## Collaborative Project
 
-["Title"](officialosagie.github.io/Collaborative)
+["THE ORLANDO PROJECT"](officialosagie.github.io/Collaborative)
 
 ## Research Presentation
 
-["Title"](reveal/index.html) 
+["RADIO"](reveal/index.html) 
 
 ## Academic Blog
 
